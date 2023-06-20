@@ -1,7 +1,7 @@
-# tictactoe
+# TicTacToe
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Tic Tac Toe a simple 1 player game frontend developed using emberjs.
+This game allows user to play with computer.
 
 ## Prerequisites
 
@@ -22,35 +22,10 @@ You will need the following things properly installed on your computer.
 
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
-* Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
 
-### Code Generators
+`Happy Gaming`
+## Author
 
-Make use of the many generators for code, try `ember help generate` for more details
+- [github:@muhammad-ur-rehman](https://github.com/muhammad-ur-rehman)
 
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Linting
-
-* `npm run lint`
-* `npm run lint:fix`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](https://emberjs.com/)
-* [ember-cli](https://cli.emberjs.com/release/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+- [linkedin:@m-ur-rehman](https://www.linkedin.com/in/m-ur-rehman/)
