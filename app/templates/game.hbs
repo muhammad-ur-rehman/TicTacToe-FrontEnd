@@ -1,0 +1,17 @@
+
+<body>
+  <h1>Tic Tac Toe</h1>
+
+<div class="game">
+  <div class="small-board">
+    {{#each this.currentstate as |cellValue index|}}
+      <div id={{index}} class="each-board {{if (eq cellValue 'X') 'green' (if (eq cellValue 'O') 'orange')}}" {{on "click" (fn this.handleClick index)}}>
+        {{cellValue}}
+      </div>
+    {{/each}}
+  </div>
+</div>
+
+</body>
+
+{{outlet}}
